@@ -1,0 +1,5 @@
+Customer Name: Address: Contact: Ordered items: 
+Customer Name: Address: Contact: Ordered items: 
+Customer Name:Saif Address:Iqbal Road Contact: 01912345678Ordered items: 
+Chicken
+

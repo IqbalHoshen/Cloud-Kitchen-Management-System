@@ -1,0 +1,2 @@
+Food Code  :1260 Food Name :Chicken momo Price : 200taka
+Food Code  :1003 Food Name :Chicken Fried Price : 300taka
